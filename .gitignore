@@ -1,0 +1,50 @@
+# Compiled binaries
+server
+client
+server_bonus
+client_bonus
+
+# Object files
+*.o
+*.obj
+
+# Dependency files
+*.d
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Static libraries
+*.a
+*.lib
+
+# Shared libraries
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+*.app
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*~
+*.tmp
+*.temp
