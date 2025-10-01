@@ -236,7 +236,7 @@ Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için LICENSE dosya
 
 ## 👨‍💻 Yazar | Author
 
-**Sungor** - Bilgisayar Mühendisliği Öğrencisi | Computer Engineering Student
+SEVİLAY ÜNGÖR- Bilgisayar Mühendisliği Öğrencisi | Computer Engineering Student
 - 42 School Projesi (Minitalk) | 42 School Project (Minitalk)  
 - Eğitim amaçlı geliştirildi ve dokümante edildi | Enhanced and documented for educational purposes
 
