@@ -1,4 +1,4 @@
-# 🔥 Unix Signal Chat System | Unix Sinyal Tabanlı İletişim Sistemi
+# 🔥 MİNİTALK | Unix Sinyal Tabanlı İletişim Sistemi
 
 ![C](https://img.shields.io/badge/Language-C-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Unix%2FLinux-orange.svg)
